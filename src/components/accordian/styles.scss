@@ -1,0 +1,48 @@
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 100vw;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+  >button{
+    @extend .title;
+    color: wheat;
+  }
+
+    .item{
+       text-align: center;
+       width: 50%;
+       margin: 0 auto;
+       background-color: brown;
+       color: white;
+       
+    }
+
+    .title{
+        background-color: rgb(105, 13, 13);
+        padding: 10px;
+        cursor: pointer;
+        transition: all 0.5s;
+
+        &:hover{
+            background-color: rgb(59, 18, 18);
+            transition: all 0.5s;
+        }
+
+        >div{
+            color: greenyellow;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 10px;
+        }
+    }
+    
+    .answer{
+        
+        padding: 10px;
+    }
+}
