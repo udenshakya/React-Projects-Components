@@ -2,22 +2,22 @@
 
 React Projects/Components
 
-accordian
-CustomModal
-CustomTabs
-FeatureFlag
-LightDarkMode
-RandomColor
-TreeView
-useFetch
-useOutsideClick
-useWindowResize
-Weather_App
-GithubProfileFinder
-ImageSlider
-LoadMoreData
-QRCode
-ScrollIndicator
-SearchAutoCompleteWithApi
-Star
-TicTacToe
+accordian <br>
+CustomModal<br>
+CustomTabs<br>
+FeatureFlag<br>
+LightDarkMode<br>
+RandomColor<br>
+TreeView<br>
+useFetch<br>
+useOutsideClick<br>
+useWindowResize<br>
+Weather_App<br>
+GithubProfileFinder<br>
+ImageSlider<br>
+LoadMoreData<br>
+QRCode<br>
+ScrollIndicator<br>
+SearchAutoCompleteWithApi<br>
+Star<br>
+TicTacToe<br>
